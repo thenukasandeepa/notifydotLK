@@ -1,0 +1,9 @@
+C:\Users\ACER\AppData\Local\Temporary Projects\notifydotLK\bin\Debug\notifydotLK.exe
+C:\Users\ACER\AppData\Local\Temporary Projects\notifydotLK\bin\Debug\notifydotLK.pdb
+C:\Users\ACER\AppData\Local\Temporary Projects\notifydotLK\bin\Debug\notifydotLK.xml
+C:\Users\ACER\AppData\Local\Temporary Projects\notifydotLK\obj\x86\Debug\notifydotLK.Form1.resources
+C:\Users\ACER\AppData\Local\Temporary Projects\notifydotLK\obj\x86\Debug\notifydotLK.Resources.resources
+C:\Users\ACER\AppData\Local\Temporary Projects\notifydotLK\obj\x86\Debug\notifydotLK.vbproj.GenerateResource.Cache
+C:\Users\ACER\AppData\Local\Temporary Projects\notifydotLK\obj\x86\Debug\notifydotLK.exe
+C:\Users\ACER\AppData\Local\Temporary Projects\notifydotLK\obj\x86\Debug\notifydotLK.xml
+C:\Users\ACER\AppData\Local\Temporary Projects\notifydotLK\obj\x86\Debug\notifydotLK.pdb
